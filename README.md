@@ -1,3 +1,4 @@
 To execute -
-```cd src```
-```java ui.LoginFrame```
+```bash
+cd src
+java ui.LoginFrame
