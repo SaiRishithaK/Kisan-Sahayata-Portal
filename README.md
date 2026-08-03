@@ -93,7 +93,7 @@ src/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/Kisan-Sahayata-Portal.git
+git clone https://github.com/SaiRishithaK/Kisan-Sahayata-Portal.git
 ```
 
 ### Open Project
@@ -144,16 +144,3 @@ You can add screenshots here:
 - SMS Notifications
 
 ---
-
-## 👩‍💻 Author
-
-**Sai Rishitha Kandhikonda**
-
-B.Tech Information Technology  
-Vasavi College of Engineering
-
----
-
-## 📜 License
-
-This project is intended for educational and learning purposes.
