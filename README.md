@@ -120,19 +120,6 @@ src/main/Main.java
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots here:
-
-- Login Page
-- Dashboard
-- Crop Management
-- Loan Application
-- Market Prices
-- Notifications
-
----
-
 ## 🎯 Future Enhancements
 
 - Weather Forecast Integration
